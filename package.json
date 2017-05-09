@@ -1,14 +1,14 @@
 {
   "name": "qrcodejs",
   "version": "1.0.0",
-  "description": "a fork from davidshimjs/qrcodejs",
+  "description": "a fork from davidshimjs/qrcodejs to add npm support",
   "main": "qrcode.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/old9/qrcodejs.git"
+    "url": "git+https://github.com/davidshimjs/qrcodejs.git"
   },
   "keywords": [
     "qrcode"
@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/old9/qrcodejs/issues"
+    "url": "https://github.com/davidshimjs/qrcodejs/issues"
   },
-  "homepage": "https://github.com/old9/qrcodejs#readme"
+  "homepage": "https://github.com/davidshimjs/qrcodejs#readme"
 }
